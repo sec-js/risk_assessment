@@ -287,12 +287,12 @@ comment_cum <- data.frame(comment_cum %>% map(rev))
 HTML(display_comments(comment_cum))
 ```
 
-\newpage
+<!-- \newpage -->
 
-## Testing Metrics
+<!-- ## Testing Metrics -->
 
 
-```{r echo=FALSE}
+```{r echo=FALSE, eval=FALSE, fig.show='hide', results='hide'}
   bands = data.frame(
     start = c(0, 40, 80),
     end = c(40, 80, 100),
@@ -318,12 +318,11 @@ HTML(display_comments(comment_cum))
 ```
 
 
-### Comments for Testing Metrics(`r nrow(comment_tm)`):
+<!-- ### Comments for Testing Metrics(`r nrow(comment_tm)`): -->
 
 
-```{r echo=FALSE}
-comment_tm <- data.frame(comment_tm %>% map(rev))
-HTML(display_comments(comment_tm))
+```{r echo=FALSE, fig.show='hide', results='hide'}
+    comment_tm <- data.frame(comment_tm %>% map(rev))
 ```
 
 

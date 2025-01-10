@@ -1,5 +1,7 @@
 # riskassessment (development version)
 
+* Open hyperlinks in a new tab from cards.
+
 # riskassessment 3.1.1
 
 * Added navigation controls in Function Explorer tab (#644)

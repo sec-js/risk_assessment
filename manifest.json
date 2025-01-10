@@ -4367,7 +4367,7 @@
         "Maintainer": "Kevin Ushey <kevin@rstudio.com>",
         "Repository": "RSPM",
         "Date/Publication": "2024-02-29 01:10:07 UTC",
-        "Built": "R 4.3.3; ; 2025-01-10 17:00:47 UTC; unix"
+        "Built": "R 4.3.3; ; 2025-01-10 17:24:24 UTC; unix"
       }
     },
     "reprex": {
@@ -6403,7 +6403,7 @@
       "checksum": "449e8dcb07732ecd9a0963bada90e53e"
     },
     "inst/report_downloads/reportHtml.Rmd": {
-      "checksum": "0e49db815a61c6698acad37894a9c0c1"
+      "checksum": "1447f97ade614947f36c34d35d7b4b5f"
     },
     "inst/report_downloads/reportPdf.Rmd": {
       "checksum": "3c7cfa456a7a171df1f10f9c1690718c"

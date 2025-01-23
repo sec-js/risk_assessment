@@ -2,6 +2,7 @@
 
 * Open hyperlinks in a new tab from cards.
 * Fix bug causing app to crash with ELSE condition in rules
+* Add `inherits` to list of used configs
 
 # riskassessment 3.1.1
 

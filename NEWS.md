@@ -1,4 +1,4 @@
-# riskassessment (development version)
+# riskassessment 3.1.2
 
 * Open hyperlinks in a new tab from cards.
 * Fix bug causing app to crash with ELSE condition in rules
